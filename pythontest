@@ -1,9 +1,8 @@
+x = "hello"
+y = "15"
 a=5
-b=4
-
-
-if  a > b :
-      print ("a is greater than b")
-else:
-     print("b is greater than a")
-
+b=6
+z = a*b
+print(z)
+print(bool(x))
+print(bool(y))
